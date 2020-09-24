@@ -3,7 +3,7 @@
 }
 
 body {
-    font-size: 10px;
+    font-size: 13px; /*increased the fontsize to more than 12px for SEO*/
     font-family: Tahoma, Arial;
 }
 
