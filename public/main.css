@@ -38,7 +38,7 @@ nav ul li a:hover  {
 }
   
 header{
-    height: 350px;
+    height: 400px;
     background-color: #b4c6f0;
     background-image: url('./bg.png');
     background-size: 400px;
@@ -61,6 +61,11 @@ header h1 {
 
 header h2 {
     color: #4d5791;
+}
+
+header h3 {
+    text-align: right;
+    margin-right: 100px ;
 }
 
 main {
