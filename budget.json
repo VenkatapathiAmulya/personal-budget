@@ -1,7 +1,7 @@
 {"myBudget":
     [
         {"title":"Eat out",
-            "budget":25
+            "budget":120
         },
         {"title":"Rent",
             "budget":375
@@ -24,5 +24,6 @@
         {"title":"sports",
             "budget":100
         }
+        
     ]
 }
